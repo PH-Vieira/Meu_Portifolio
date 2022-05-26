@@ -1,2 +1,0 @@
-# pedrovieira
-my personal repository
